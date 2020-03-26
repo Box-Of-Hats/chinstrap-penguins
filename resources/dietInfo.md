@@ -1,0 +1,1 @@
+The diet of the chinstrap penguin consists of small fish, krill, shrimp, and squid, for which they swim up to 80 km (50 mi) offshore each day to obtain
