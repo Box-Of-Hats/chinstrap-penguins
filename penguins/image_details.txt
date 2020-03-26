@@ -1,0 +1,7 @@
+image: penguin2_large.png
+caption: penguin feeding chick
+text: an adult female penguin feeding a chick
+
+image: Chinstrap_Penguin_chick_large.png
+caption: Chinstrap Penguin chick
+text: a Chinstrap Penguin chick standing on rock
