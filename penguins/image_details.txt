@@ -1,7 +1,15 @@
 image: penguin2_large.png
 caption: penguin feeding chick
-text: an adult female penguin feeding a chick
+text/ alt text: an adult female penguin feeding a chick
 
 image: Chinstrap_Penguin_chick_large.png
 caption: Chinstrap Penguin chick
-text: a Chinstrap Penguin chick standing on rock
+text/ alt text: a Chinstrap Penguin chick standing on rock
+
+image: penguin3_large.png
+caption: Chinstrap Penguin jump out of water
+text/ alt text: a Chinstrap Penguin jumping out of the sea
+
+image: penguin4_large.png
+caption: Group of five Chinstrap Penguin
+text/ alt text: A group of five Chinstrap Penguin walking out of the sea onto a beach
