@@ -52,7 +52,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    width: 800px;
+    width: 100%;
     box-sizing: border-box;
 }
 
@@ -66,10 +66,16 @@ header {
     box-sizing: border-box;
 }
 
-.diet-item--right {
-    flex-direction: row-reverse;
+// .diet-item--right {
+//     flex-direction: row-reverse;
 
-    .diet-item__image {
-        padding-left: 0;
-    }
+//     .diet-item__image {
+//         padding-left: 0;
+//     }
+// }
+.diet-section {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    padding-right: 30px;
 }
