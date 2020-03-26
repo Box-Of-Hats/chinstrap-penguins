@@ -1,23 +1,22 @@
-- Penguins are flightless birds.
+- 
 
-- While other birds have wings for flying, penguins have adapted flippers to help them swim in the water.
+- 
 
-- Most penguins live in the Southern Hemisphere.
+- 
 
-- The Galapagos Penguin is the only penguin species that ventures north of the equator in the wild.
+- 
 
-- Large penguin populations can be found in countries such as New Zealand, Australia, Chile, Argentina and South Africa.
+- 
 
-- No penguins live at the North Pole.
+- 
 
-- Penguins eat a range of fish and other sealife that they catch underwater.
+- 
 
-- Penguins can drink sea water.
+- 
 
-- Penguins spend around half their time in water and the other half on land.
+- 
 
-- The Emperor Penguin is the tallest of all penguin species, reaching as tall as 120 cm (47 in) in height.
-
+- 
 - Emperor Penguins can stay underwater for around 20 minutes at a time.
 
 - Emperor Penguins often huddle together to keep warm in the cold temperatures of Antarctica.
