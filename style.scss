@@ -79,3 +79,8 @@ header {
     float: left;
     padding-right: 30px;
 }
+
+.clearfix {
+    display: table;
+    clear: both;
+}
